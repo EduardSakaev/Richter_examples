@@ -3,25 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackObjects_1", "PackObjects\PackObjects_1.csproj", "{F2E4084F-3A4F-4A11-B6F7-1A544A3DF796}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackObjects_2", "PackObjects_2\PackObjects_2.csproj", "{B3899C21-6F82-4E16-9C9D-FE580ADD8D1B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B3899C21-6F82-4E16-9C9D-FE580ADD8D1B}.Debug|x86.ActiveCfg = Debug|x86
-		{B3899C21-6F82-4E16-9C9D-FE580ADD8D1B}.Debug|x86.Build.0 = Debug|x86
-		{B3899C21-6F82-4E16-9C9D-FE580ADD8D1B}.Release|x86.ActiveCfg = Release|x86
-		{B3899C21-6F82-4E16-9C9D-FE580ADD8D1B}.Release|x86.Build.0 = Release|x86
 		{F2E4084F-3A4F-4A11-B6F7-1A544A3DF796}.Debug|x86.ActiveCfg = Debug|x86
 		{F2E4084F-3A4F-4A11-B6F7-1A544A3DF796}.Debug|x86.Build.0 = Debug|x86
 		{F2E4084F-3A4F-4A11-B6F7-1A544A3DF796}.Release|x86.ActiveCfg = Release|x86
 		{F2E4084F-3A4F-4A11-B6F7-1A544A3DF796}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = PackObjects_2\PackObjects_2.csproj
+		StartupItem = PackObjects\PackObjects_1.csproj
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
